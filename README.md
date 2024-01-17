@@ -12,9 +12,14 @@ và rõ ràng.
  + Trình bày hướng phát triển của đề tài
 # Liên Hệ:
 Họ tên: La Tuyết Huệ
+
 Lớp: DA21TTB (Công nghệ thông tin B)
+
 MSSV: 110121160
+
 Email: 110121160@st.tvu.edu.vn
+
 Số điện thoại: 0776825215
+
 # Giảng viên hướng dẫn:
 ThS. Trần Văn Nam
